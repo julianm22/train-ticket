@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="670d9f7e-5e16-4330-96f9-e72f84e0d3f9" name="Default Changelist" comment="" />
+    <list default="true" id="670d9f7e-5e16-4330-96f9-e72f84e0d3f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dao/TrainDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Train.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +20,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QTg1f9PGFUrSFmZy0Fjsl71xx2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ojdbc14.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -71,5 +82,16 @@
       <updated>1567799786686</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
