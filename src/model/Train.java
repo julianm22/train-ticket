@@ -8,7 +8,7 @@ public class Train {
     private double ticketPrice;
 
     public Train(){
-    
+
     }
 
     public Train(int trainNo, String trainName, String source, String destination, double ticketPrice) {
